@@ -20,4 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "InkGoals"
-include(":app")
+include(":app", ":domain", ":data", ":core-ui")
